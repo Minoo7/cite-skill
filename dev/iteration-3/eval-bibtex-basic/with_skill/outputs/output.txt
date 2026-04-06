@@ -1,0 +1,8 @@
+@article{vaswani2017attention,
+	author = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia},
+	doi = {10.48550/ARXIV.1706.03762},
+	year = {2017},
+	publisher = {arXiv},
+	title = {Attention {Is} {All} {You} {Need}},
+	url = {https://arxiv.org/abs/1706.03762},
+}

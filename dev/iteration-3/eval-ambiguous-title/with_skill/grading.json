@@ -1,0 +1,5 @@
+{"eval_id": 2, "config": "with_skill", "expectations": [
+  {"text": "asks-clarification", "passed": true, "evidence": "Output says 'No citation was generated because the title is ambiguous. The user must confirm which specific paper they mean'"},
+  {"text": "shows-options", "passed": true, "evidence": "Listed 5 papers with authors, years, DOIs, and publishers"},
+  {"text": "not-hallucinated", "passed": true, "evidence": "All candidates from CrossRef API"}
+]}

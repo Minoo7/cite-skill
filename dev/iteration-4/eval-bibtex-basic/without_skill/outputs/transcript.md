@@ -1,0 +1,24 @@
+# Transcript: Cite "Attention Is All You Need"
+
+## Task
+The user requested a citation for the paper "Attention Is All You Need."
+
+## Reasoning
+This is a well-known foundational paper in deep learning. I know the key bibliographic details from my training data:
+
+- **Title**: Attention Is All You Need
+- **Authors**: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+- **Venue**: Advances in Neural Information Processing Systems (NeurIPS), Volume 30
+- **Year**: 2017
+- **ArXiv**: 1706.03762
+
+No external commands or searches were needed since this is a widely known paper and I have reliable knowledge of its citation details.
+
+## Commands Run
+
+1. `mkdir -p .../outputs` — Created the output directory.
+2. Wrote the BibTeX citation to `output.txt`.
+3. Wrote this transcript to `transcript.md`.
+
+## Output
+A BibTeX entry was generated and saved to `output.txt`.

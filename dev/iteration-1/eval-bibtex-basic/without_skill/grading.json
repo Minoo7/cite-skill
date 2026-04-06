@@ -1,0 +1,10 @@
+{
+  "eval_id": 0,
+  "config": "without_skill",
+  "expectations": [
+    {"text": "correct-paper", "passed": true, "evidence": "Output is for Vaswani et al. 'Attention Is All You Need' (2017)"},
+    {"text": "valid-bibtex", "passed": true, "evidence": "Output contains @article{ with proper BibTeX structure"},
+    {"text": "has-doi", "passed": false, "evidence": "No DOI field in the BibTeX entry — only has a url field"},
+    {"text": "from-publisher", "passed": false, "evidence": "Transcript explicitly says 'generated from known metadata' — no API calls made"}
+  ]
+}

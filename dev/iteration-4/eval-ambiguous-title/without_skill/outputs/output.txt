@@ -1,0 +1,4 @@
+Tie-Yan Liu. "Learning to Rank for Information Retrieval." Foundations and Trends in Information Retrieval, vol. 3, no. 3, pp. 225-331, 2009.
+
+Note: Another prominent paper with "Learning to Rank" in the title is:
+Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, and Greg Hullender. "Learning to Rank using Gradient Descent." In Proceedings of the 22nd International Conference on Machine Learning (ICML), pp. 89-96, 2005.

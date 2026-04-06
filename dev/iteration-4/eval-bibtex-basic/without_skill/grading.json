@@ -1,0 +1,8 @@
+{"eval_id": 0, "config": "without_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Vaswani et al. 2017"},
+  {"text": "valid-bibtex", "passed": true, "evidence": "@article{ with proper structure"},
+  {"text": "has-doi", "passed": false, "evidence": "No DOI field"},
+  {"text": "from-publisher", "passed": false, "evidence": "Generated from memory"},
+  {"text": "clean-bibtex-key", "passed": true, "evidence": "Key is vaswani2017attention"},
+  {"text": "tried-original-doi", "passed": false, "evidence": "No API lookups performed"}
+]}

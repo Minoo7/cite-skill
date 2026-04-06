@@ -1,0 +1,7 @@
+{"eval_id": 0, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Vaswani et al. 2017, all 8 authors, correct title"},
+  {"text": "valid-bibtex", "passed": true, "evidence": "@article{vaswani2017attention with doi, url, author, title, year, publisher"},
+  {"text": "has-doi", "passed": true, "evidence": "DOI 10.48550/ARXIV.1706.03762"},
+  {"text": "from-publisher", "passed": true, "evidence": "Used CrossRef then citation-js with arXiv DOI"},
+  {"text": "clean-bibtex-key", "passed": true, "evidence": "Key is vaswani2017attention, not a URL"}
+]}

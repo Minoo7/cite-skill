@@ -1,0 +1,23 @@
+{
+  "skill_name": "cite",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "cite attention is all you need",
+      "expected_output": "A BibTeX entry for the Vaswani et al. 2017 transformer paper",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "get me an APA citation for BERT pre-training of deep bidirectional transformers",
+      "expected_output": "An APA-formatted citation string for the Devlin et al. BERT paper",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "cite the paper called learning to rank",
+      "expected_output": "Should show multiple results or confirm which paper, since 'learning to rank' matches many papers",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{"eval_id": 1, "config": "without_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Devlin et al. (2019) BERT"},
+  {"text": "apa-format", "passed": true, "evidence": "Proper APA 7th edition format"},
+  {"text": "from-publisher", "passed": false, "evidence": "Generated from memory, no API calls"},
+  {"text": "used-citation-js", "passed": false, "evidence": "No skill, no citation-js"}
+]}

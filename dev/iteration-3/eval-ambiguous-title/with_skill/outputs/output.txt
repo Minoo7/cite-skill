@@ -1,0 +1,29 @@
+## Disambiguation Required
+
+The title "Learning to Rank" is ambiguous. Multiple papers share this exact title. Please select which paper you mean:
+
+1. "Learning to Rank" by Hang Li (2011)
+   - DOI: 10.1007/978-3-031-02141-1_1
+   - Publisher: Springer International Publishing
+
+2. "Learning to Rank" by Hang Li (2017)
+   - DOI: 10.1007/978-1-4899-7687-1_893
+   - Publisher: Springer US
+   - (Encyclopedia of Machine Learning and Data Mining entry)
+
+3. "Learning to Rank" by Hang Li (2016)
+   - DOI: 10.1007/978-1-4899-7502-7_893-1
+   - Publisher: Springer US
+
+4. "Learning to Rank" (2014)
+   - DOI: 10.1007/978-1-4614-6170-8_100897
+   - Publisher: Springer New York
+   - (Encyclopedia of Social Network Analysis and Mining entry)
+
+5. "Learning-to-Rank" by Massih-Reza Amini (2025)
+   - DOI: 10.1007/978-3-031-99928-4_7
+   - Publisher: Springer Nature Switzerland
+
+## Citation (not generated)
+
+No citation was generated because the title is ambiguous. The user must confirm which specific paper they mean before a citation can be produced.

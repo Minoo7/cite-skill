@@ -1,0 +1,6 @@
+{"eval_id": 0, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Vaswani et al. 2017, correct title and all 8 authors"},
+  {"text": "valid-bibtex", "passed": true, "evidence": "@misc{ entry with doi, url, author, title, year fields"},
+  {"text": "has-doi", "passed": true, "evidence": "DOI 10.48550/ARXIV.1706.03762"},
+  {"text": "from-publisher", "passed": true, "evidence": "Transcript shows CrossRef query then doi.org content negotiation fallback (citation-js not installed)"}
+]}

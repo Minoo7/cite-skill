@@ -1,0 +1,13 @@
+The title "Learning to Rank" is ambiguous. Below are citations for the most commonly referenced papers with this title:
+
+1. Survey/Tutorial Paper (most widely cited under this title):
+
+Liu, T.-Y. (2009). Learning to Rank for Information Retrieval. Foundations and Trends in Information Retrieval, 3(3), 225-331. https://doi.org/10.1561/1500000016
+
+2. Book (expanded from the survey):
+
+Liu, T.-Y. (2011). Learning to Rank for Information Retrieval. Springer. https://doi.org/10.1007/978-3-642-14267-3
+
+3. ICML 2005 paper (early influential work on learning to rank):
+
+Burges, C., Shaked, T., Renshaw, E., Lazier, A., Deeds, M., Hamilton, N., & Hullender, G. (2005). Learning to Rank using Gradient Descent. In Proceedings of the 22nd International Conference on Machine Learning (ICML 2005), pp. 89-96.

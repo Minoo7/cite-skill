@@ -1,0 +1,5 @@
+{"eval_id": 2, "config": "without_skill", "expectations": [
+  {"text": "asks-clarification", "passed": false, "evidence": "Provided citations for 3 papers without asking user to choose"},
+  {"text": "shows-options", "passed": true, "evidence": "Showed 3 papers with details"},
+  {"text": "not-hallucinated", "passed": false, "evidence": "Used web search but citations constructed from memory"}
+]}

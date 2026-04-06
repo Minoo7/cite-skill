@@ -1,0 +1,15 @@
+{
+  "reviews": [
+    {
+      "run_id": "eval-bibtex-basic-with_skill",
+      "feedback": "Use a proper title/naming for the bibtex not the doi url. Also preferably use original source rather than arXiv",
+      "timestamp": "2026-04-06T11:06:46.188Z"
+    },
+    {
+      "run_id": "eval-ambiguous-title-with_skill",
+      "feedback": "if u are unsure which paper then just return asking for clarifications rather than giving a citation to one of them",
+      "timestamp": "2026-04-06T11:06:46.188Z"
+    }
+  ],
+  "status": "in_progress"
+}

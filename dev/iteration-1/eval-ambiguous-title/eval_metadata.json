@@ -1,0 +1,9 @@
+{
+  "eval_id": 2,
+  "eval_name": "ambiguous-title",
+  "prompt": "cite the paper called learning to rank",
+  "assertions": [
+    {"name": "shows-options", "description": "Agent showed multiple results or asked for disambiguation"},
+    {"name": "not-hallucinated", "description": "Any citation shown was fetched from an API, not made up"}
+  ]
+}

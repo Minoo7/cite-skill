@@ -1,0 +1,28 @@
+== DISAMBIGUATION ==
+
+The title "Learning to Rank" is ambiguous. Multiple papers were found in CrossRef:
+
+1. "Learning to Rank" by Li, Hang (2011)
+   DOI: 10.1007/978-3-031-02141-1_1
+   (Chapter in "Learning to Rank for Information Retrieval and Natural Language Processing")
+
+2. "Learning to Rank" by Li, Hang (2017)
+   DOI: 10.1007/978-1-4899-7687-1_893
+   (Encyclopedia entry)
+
+3. "Learning to Rank" by Li, Hang (2016)
+   DOI: 10.1007/978-1-4899-7502-7_893-1
+
+4. "Learning to Rank" by Combes, Richard; Magureanu, Stefan; Proutiere, Alexandre; Laroche, Cyrille (2015)
+   DOI: 10.1145/2796314.2745852
+
+5. "Learning to Rank" (2014)
+   DOI: 10.1007/978-1-4614-6170-8_100897
+
+Please specify which paper you mean (e.g., by author or year) for an exact citation.
+
+== CITATION (top result: Li, 2011) ==
+
+```bibtex
+@inbook{Li_2011, title={Learning to Rank}, ISBN={9783031021411}, ISSN={1947-4059}, url={http://dx.doi.org/10.1007/978-3-031-02141-1_1}, DOI={10.1007/978-3-031-02141-1_1}, booktitle={Learning to Rank for Information Retrieval and Natural Language Processing}, publisher={Springer International Publishing}, author={Li, Hang}, year={2011}, pages={1–9} }
+```

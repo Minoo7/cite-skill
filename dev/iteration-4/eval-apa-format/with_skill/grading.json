@@ -1,0 +1,7 @@
+{"eval_id": 1, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Devlin, Chang, Lee, Toutanova (2019) BERT at NAACL"},
+  {"text": "apa-format", "passed": true, "evidence": "APA 7th edition with proceedings, pages, publisher, DOI URL"},
+  {"text": "from-publisher", "passed": true, "evidence": "DOI found via CrossRef, citation constructed from verified metadata"},
+  {"text": "used-citation-js", "passed": true, "evidence": "citation-js attempted, fell back to manual construction due to empty title in CrossRef metadata"},
+  {"text": "original-publisher-doi", "passed": true, "evidence": "Used ACL DOI 10.18653/v1/N19-1423, not arXiv"}
+]}

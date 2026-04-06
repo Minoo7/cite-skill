@@ -1,0 +1,6 @@
+{"eval_id": 1, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Devlin, Chang, Lee, Toutanova (2019) BERT at NAACL"},
+  {"text": "apa-format", "passed": true, "evidence": "APA plain text with authors, year, title, proceedings, pages, DOI URL"},
+  {"text": "from-publisher", "passed": true, "evidence": "DOI found via Semantic Scholar fallback, citation generated via citation-js with corrected CSL-JSON"},
+  {"text": "used-citation-js", "passed": true, "evidence": "Installed citation-js and used it with corrected CSL-JSON input"}
+]}

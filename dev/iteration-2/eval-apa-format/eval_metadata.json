@@ -1,0 +1,6 @@
+{"eval_id": 1, "eval_name": "apa-format", "prompt": "get me an APA citation for BERT pre-training of deep bidirectional transformers", "assertions": [
+  {"name": "correct-paper", "description": "Citation is for Devlin et al. BERT paper"},
+  {"name": "apa-format", "description": "Output is APA-style plain text, not BibTeX"},
+  {"name": "from-publisher", "description": "Citation was fetched via API, not hallucinated"},
+  {"name": "used-citation-js", "description": "citation-js was used (or attempted) as the formatter"}
+]}

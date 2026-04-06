@@ -1,0 +1,13 @@
+The title "Learning to Rank" is ambiguous and matches several well-known papers. Below are citations for the most prominent ones:
+
+1. Survey/Tutorial (most commonly referenced):
+
+Liu, T.-Y. (2009). Learning to Rank for Information Retrieval. Foundations and Trends in Information Retrieval, 3(3), 225-331. DOI: 10.1561/1500000016
+
+2. ICML 2007 Conference Paper:
+
+Cao, Z., Qin, T., Liu, T.-Y., Tsai, M.-F., & Li, H. (2007). Learning to Rank: From Pairwise Approach to Listwise Approach. In Proceedings of the 24th International Conference on Machine Learning (ICML '07), pp. 129-136. New York, NY, USA: Association for Computing Machinery.
+
+3. Book:
+
+Liu, T.-Y. (2011). Learning to Rank for Information Retrieval. Springer. ISBN: 978-3-642-14266-6. DOI: 10.1007/978-3-642-14267-3

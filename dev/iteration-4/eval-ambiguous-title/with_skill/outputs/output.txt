@@ -1,0 +1,36 @@
+DISAMBIGUATION REQUIRED
+
+The title "Learning to Rank" is ambiguous. Multiple papers share this exact title.
+Please choose which paper you want to cite:
+
+1. "Learning to Rank"
+   Authors: Hang Li
+   Year: 2011
+   DOI: 10.1007/978-3-031-02141-1_1
+   Publisher: Springer International Publishing
+
+2. "Learning to Rank"
+   Authors: Hang Li
+   Year: 2016
+   DOI: 10.1007/978-1-4899-7502-7_893-1
+   Publisher: Springer US
+
+3. "Learning to Rank"
+   Authors: Hang Li
+   Year: 2017
+   DOI: 10.1007/978-1-4899-7687-1_893
+   Publisher: Springer US
+
+4. "Learning to Rank"
+   Authors: Hang Li
+   Year: 2015
+   DOI: 10.1007/978-3-031-02155-8_1
+   Publisher: Springer International Publishing
+
+5. "Learning to Rank"
+   Authors: Richard Combes, Stefan Magureanu, Alexandre Proutiere, Cyrille Laroche
+   Year: 2015
+   DOI: 10.1145/2745844.2745852
+   Publisher: ACM
+
+Please specify which paper (by number, year, author, or DOI) and I will generate the citation.

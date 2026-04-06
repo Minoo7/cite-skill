@@ -1,0 +1,5 @@
+{"eval_id": 2, "config": "with_skill", "expectations": [
+  {"text": "asks-clarification", "passed": true, "evidence": "Listed 5 candidates and asked user to pick, no citation generated"},
+  {"text": "shows-options", "passed": true, "evidence": "5 papers with authors, years, DOIs, publishers"},
+  {"text": "not-hallucinated", "passed": true, "evidence": "All from CrossRef API"}
+]}

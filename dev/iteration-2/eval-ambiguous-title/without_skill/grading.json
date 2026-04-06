@@ -1,0 +1,5 @@
+{"eval_id": 2, "config": "without_skill", "expectations": [
+  {"text": "shows-options", "passed": true, "evidence": "Showed 4 prominent papers with citations"},
+  {"text": "not-hallucinated", "passed": false, "evidence": "Citations constructed from memory, not fetched from APIs"},
+  {"text": "used-citation-js", "passed": false, "evidence": "No skill, no citation-js"}
+]}

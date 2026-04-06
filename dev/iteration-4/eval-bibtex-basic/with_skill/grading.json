@@ -1,0 +1,8 @@
+{"eval_id": 0, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Vaswani et al. 2017, all 8 authors"},
+  {"text": "valid-bibtex", "passed": true, "evidence": "@article{vaswani2017attention with all fields"},
+  {"text": "has-doi", "passed": true, "evidence": "DOI 10.48550/ARXIV.1706.03762"},
+  {"text": "from-publisher", "passed": true, "evidence": "Used citation-js with arXiv DOI after API lookups"},
+  {"text": "clean-bibtex-key", "passed": true, "evidence": "Key is vaswani2017attention"},
+  {"text": "tried-original-doi", "passed": true, "evidence": "Tried CrossRef, Semantic Scholar (rate limited), and OpenAlex before falling back to arXiv. Explained NeurIPS doesn't assign per-paper DOIs."}
+]}

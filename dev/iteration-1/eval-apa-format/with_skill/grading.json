@@ -1,0 +1,9 @@
+{
+  "eval_id": 1,
+  "config": "with_skill",
+  "expectations": [
+    {"text": "correct-paper", "passed": true, "evidence": "Citation is for Devlin, Chang, Lee, Toutanova (2019) BERT paper at NAACL"},
+    {"text": "apa-format", "passed": true, "evidence": "Output is APA-style plain text with authors, year, title, proceedings, pages, DOI URL"},
+    {"text": "from-publisher", "passed": true, "evidence": "Transcript shows CrossRef lookup then doi.org content negotiation with APA style header, though manual title correction was needed"}
+  ]
+}

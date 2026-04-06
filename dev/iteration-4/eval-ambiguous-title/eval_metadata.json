@@ -1,0 +1,5 @@
+{"eval_id": 2, "eval_name": "ambiguous-title", "prompt": "cite the paper called learning to rank", "assertions": [
+  {"name": "asks-clarification", "description": "Agent listed candidates and asked user to clarify, did NOT generate a citation"},
+  {"name": "shows-options", "description": "Agent showed multiple results with authors, years, DOIs"},
+  {"name": "not-hallucinated", "description": "Candidates came from CrossRef API, not from memory"}
+]}

@@ -1,0 +1,6 @@
+{"eval_id": 1, "config": "with_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Devlin, Chang, Lee, Toutanova (2019) BERT at NAACL"},
+  {"text": "apa-format", "passed": true, "evidence": "APA plain text with full proceedings name, pages, DOI URL"},
+  {"text": "from-publisher", "passed": true, "evidence": "DOI found via CrossRef, citation-js used with corrected CSL-JSON"},
+  {"text": "used-citation-js", "passed": true, "evidence": "citation-js used with corrected CSL-JSON input"}
+]}

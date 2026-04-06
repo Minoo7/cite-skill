@@ -1,0 +1,8 @@
+{
+  "eval_id": 2,
+  "config": "with_skill",
+  "expectations": [
+    {"text": "shows-options", "passed": true, "evidence": "Output shows 5 papers with authors, years, and DOIs, asks user to specify which one"},
+    {"text": "not-hallucinated", "passed": true, "evidence": "All results came from CrossRef API query, BibTeX fetched via doi.org content negotiation"}
+  ]
+}

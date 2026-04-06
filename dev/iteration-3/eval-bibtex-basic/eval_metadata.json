@@ -1,0 +1,7 @@
+{"eval_id": 0, "eval_name": "bibtex-basic", "prompt": "cite attention is all you need", "assertions": [
+  {"name": "correct-paper", "description": "Citation is for Vaswani et al. 'Attention Is All You Need'"},
+  {"name": "valid-bibtex", "description": "Output contains a valid BibTeX entry"},
+  {"name": "has-doi", "description": "Output includes a DOI"},
+  {"name": "from-publisher", "description": "Citation was fetched via API, not generated from memory"},
+  {"name": "clean-bibtex-key", "description": "BibTeX key is a readable identifier like authorYYYYword, not a URL"}
+]}

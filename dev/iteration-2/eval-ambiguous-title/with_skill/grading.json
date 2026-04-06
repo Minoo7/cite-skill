@@ -1,0 +1,5 @@
+{"eval_id": 2, "config": "with_skill", "expectations": [
+  {"text": "shows-options", "passed": true, "evidence": "Listed 5 papers with authors, years, DOIs, and types"},
+  {"text": "not-hallucinated", "passed": true, "evidence": "All from CrossRef API, BibTeX via citation-js from DOI"},
+  {"text": "used-citation-js", "passed": true, "evidence": "Installed and used citation-js to generate BibTeX from DOI"}
+]}

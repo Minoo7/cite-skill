@@ -1,0 +1,41 @@
+== Disambiguation ==
+
+The title "learning to rank" is ambiguous. Multiple papers were found on CrossRef with this exact title:
+
+1. "Learning to Rank" by Hang Li (2011)
+   DOI: 10.1007/978-3-031-02141-1_1
+   Type: book-chapter in Synthesis Lectures on Human Language Technologies
+   Publisher: Springer International Publishing
+
+2. "Learning to Rank" by Hang Li (2017)
+   DOI: 10.1007/978-1-4899-7687-1_893
+   Type: book-chapter
+
+3. "Learning to Rank" by Hang Li (2016)
+   DOI: 10.1007/978-1-4899-7502-7_893-1
+   Type: book-chapter
+
+4. "Learning to Rank" (2014)
+   DOI: 10.1007/978-1-4614-6170-8_100897
+   Type: book-chapter
+
+5. "Learning to Rank" (2018)
+   DOI: 10.1007/978-1-4939-7131-2_100591
+   Type: book-chapter
+
+Selected the top result (#1) as the most likely intended paper.
+
+== Citation (BibTeX) ==
+
+@inbook{Li2011Learning,
+	author = {Li, Hang},
+	booktitle = {Synthesis {Lectures} on {Human} {Language} {Technologies}},
+	doi = {10.1007/978-3-031-02141-1_1},
+	isbn = {9783031021411},
+	issn = {1947-4040},
+	year = {2011},
+	pages = {1--9},
+	publisher = {Springer International Publishing},
+	title = {Learning to {Rank}},
+	url = {http://dx.doi.org/10.1007/978-3-031-02141-1_1},
+}

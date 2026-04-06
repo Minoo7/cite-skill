@@ -1,0 +1,10 @@
+{
+  "eval_id": 0,
+  "config": "with_skill",
+  "expectations": [
+    {"text": "correct-paper", "passed": true, "evidence": "Output is for Vaswani et al. 'Attention Is All You Need' (2017), correct authors and title"},
+    {"text": "valid-bibtex", "passed": true, "evidence": "Output contains @misc{ with proper BibTeX fields (doi, url, author, title, year)"},
+    {"text": "has-doi", "passed": true, "evidence": "DOI 10.48550/ARXIV.1706.03762 present"},
+    {"text": "from-publisher", "passed": true, "evidence": "Transcript shows curl to CrossRef API then doi.org content negotiation — citation fetched from API"}
+  ]
+}

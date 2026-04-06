@@ -1,0 +1,9 @@
+{
+  "eval_id": 1,
+  "config": "without_skill",
+  "expectations": [
+    {"text": "correct-paper", "passed": true, "evidence": "Citation is for Devlin et al. (2019) BERT paper"},
+    {"text": "apa-format", "passed": true, "evidence": "Output is proper APA 7th edition with editors, full proceedings name, page range, publisher, DOI"},
+    {"text": "from-publisher", "passed": false, "evidence": "Transcript says 'constructed the APA 7th edition citation from my knowledge' — no API calls"}
+  ]
+}

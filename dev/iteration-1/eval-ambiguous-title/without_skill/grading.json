@@ -1,0 +1,8 @@
+{
+  "eval_id": 2,
+  "config": "without_skill",
+  "expectations": [
+    {"text": "shows-options", "passed": true, "evidence": "Showed 3 prominent papers with citations for each"},
+    {"text": "not-hallucinated", "passed": false, "evidence": "Transcript shows web searches were done but citations were constructed from knowledge, not fetched from publisher APIs. DOIs and page numbers may be accurate but are unverified from the source."}
+  ]
+}

@@ -1,0 +1,6 @@
+{"eval_id": 0, "config": "without_skill", "expectations": [
+  {"text": "correct-paper", "passed": true, "evidence": "Vaswani et al. 2017"},
+  {"text": "valid-bibtex", "passed": true, "evidence": "@article{ with proper structure"},
+  {"text": "has-doi", "passed": false, "evidence": "No DOI field — only url"},
+  {"text": "from-publisher", "passed": false, "evidence": "Generated from memory, no API calls"}
+]}

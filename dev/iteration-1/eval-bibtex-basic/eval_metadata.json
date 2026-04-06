@@ -1,0 +1,11 @@
+{
+  "eval_id": 0,
+  "eval_name": "bibtex-basic",
+  "prompt": "cite attention is all you need",
+  "assertions": [
+    {"name": "correct-paper", "description": "Citation is for Vaswani et al. 'Attention Is All You Need'"},
+    {"name": "valid-bibtex", "description": "Output contains a valid BibTeX entry (@article or @inproceedings)"},
+    {"name": "has-doi", "description": "Output includes a DOI"},
+    {"name": "from-publisher", "description": "Citation was fetched via API (curl), not generated from memory"}
+  ]
+}
